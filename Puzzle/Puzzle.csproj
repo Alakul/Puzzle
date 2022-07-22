@@ -1,0 +1,99 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Images\Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\Puzzles\1.jpg" />
+    <None Remove="Images\Puzzles\10.jpg" />
+    <None Remove="Images\Puzzles\11.jpg" />
+    <None Remove="Images\Puzzles\12.jpg" />
+    <None Remove="Images\Puzzles\13.jpg" />
+    <None Remove="Images\Puzzles\14.jpg" />
+    <None Remove="Images\Puzzles\15.jpg" />
+    <None Remove="Images\Puzzles\16.jpg" />
+    <None Remove="Images\Puzzles\17.jpg" />
+    <None Remove="Images\Puzzles\18.jpg" />
+    <None Remove="Images\Puzzles\19.jpg" />
+    <None Remove="Images\Puzzles\2.jpg" />
+    <None Remove="Images\Puzzles\20.jpg" />
+    <None Remove="Images\Puzzles\21.jpg" />
+    <None Remove="Images\Puzzles\22.jpg" />
+    <None Remove="Images\Puzzles\23.jpg" />
+    <None Remove="Images\Puzzles\24.jpg" />
+    <None Remove="Images\Puzzles\25.jpg" />
+    <None Remove="Images\Puzzles\26.jpg" />
+    <None Remove="Images\Puzzles\27.jpg" />
+    <None Remove="Images\Puzzles\28.jpg" />
+    <None Remove="Images\Puzzles\29.jpg" />
+    <None Remove="Images\Puzzles\3.jpg" />
+    <None Remove="Images\Puzzles\30.jpg" />
+    <None Remove="Images\Puzzles\31.jpg" />
+    <None Remove="Images\Puzzles\32.jpg" />
+    <None Remove="Images\Puzzles\33.jpg" />
+    <None Remove="Images\Puzzles\34.jpg" />
+    <None Remove="Images\Puzzles\35.jpg" />
+    <None Remove="Images\Puzzles\36.jpg" />
+    <None Remove="Images\Puzzles\4.jpg" />
+    <None Remove="Images\Puzzles\5.jpg" />
+    <None Remove="Images\Puzzles\6.jpg" />
+    <None Remove="Images\Puzzles\7.jpg" />
+    <None Remove="Images\Puzzles\8.jpg" />
+    <None Remove="Images\Puzzles\9.jpg" />
+    <None Remove="Images\Puzzles\Preview.jpg" />
+    <None Remove="Images\Background.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Images\Icon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\Puzzles\1.jpg" />
+    <Resource Include="Images\Puzzles\10.jpg" />
+    <Resource Include="Images\Puzzles\11.jpg" />
+    <Resource Include="Images\Puzzles\12.jpg" />
+    <Resource Include="Images\Puzzles\13.jpg" />
+    <Resource Include="Images\Puzzles\14.jpg" />
+    <Resource Include="Images\Puzzles\15.jpg" />
+    <Resource Include="Images\Puzzles\16.jpg" />
+    <Resource Include="Images\Puzzles\17.jpg" />
+    <Resource Include="Images\Puzzles\18.jpg" />
+    <Resource Include="Images\Puzzles\19.jpg" />
+    <Resource Include="Images\Puzzles\2.jpg" />
+    <Resource Include="Images\Puzzles\20.jpg" />
+    <Resource Include="Images\Puzzles\21.jpg" />
+    <Resource Include="Images\Puzzles\22.jpg" />
+    <Resource Include="Images\Puzzles\23.jpg" />
+    <Resource Include="Images\Puzzles\24.jpg" />
+    <Resource Include="Images\Puzzles\25.jpg" />
+    <Resource Include="Images\Puzzles\26.jpg" />
+    <Resource Include="Images\Puzzles\27.jpg" />
+    <Resource Include="Images\Puzzles\28.jpg" />
+    <Resource Include="Images\Puzzles\29.jpg" />
+    <Resource Include="Images\Puzzles\3.jpg" />
+    <Resource Include="Images\Puzzles\30.jpg" />
+    <Resource Include="Images\Puzzles\31.jpg" />
+    <Resource Include="Images\Puzzles\32.jpg" />
+    <Resource Include="Images\Puzzles\33.jpg" />
+    <Resource Include="Images\Puzzles\34.jpg" />
+    <Resource Include="Images\Puzzles\35.jpg" />
+    <Resource Include="Images\Puzzles\36.jpg" />
+    <Resource Include="Images\Puzzles\4.jpg" />
+    <Resource Include="Images\Puzzles\5.jpg" />
+    <Resource Include="Images\Puzzles\6.jpg" />
+    <Resource Include="Images\Puzzles\7.jpg" />
+    <Resource Include="Images\Puzzles\8.jpg" />
+    <Resource Include="Images\Puzzles\9.jpg" />
+    <Resource Include="Images\Puzzles\Preview.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\Background.png" />
+  </ItemGroup>
+
+</Project>

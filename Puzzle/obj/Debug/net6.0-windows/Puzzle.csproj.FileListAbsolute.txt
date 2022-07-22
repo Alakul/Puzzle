@@ -1,0 +1,45 @@
+C:\Users\alicj\source\repos\Puzzle\Puzzle\bin\Debug\net6.0-windows\Puzzle.exe
+C:\Users\alicj\source\repos\Puzzle\Puzzle\bin\Debug\net6.0-windows\Puzzle.deps.json
+C:\Users\alicj\source\repos\Puzzle\Puzzle\bin\Debug\net6.0-windows\Puzzle.runtimeconfig.json
+C:\Users\alicj\source\repos\Puzzle\Puzzle\bin\Debug\net6.0-windows\Puzzle.dll
+C:\Users\alicj\source\repos\Puzzle\Puzzle\bin\Debug\net6.0-windows\Puzzle.pdb
+C:\Users\alicj\source\repos\Puzzle\Puzzle\obj\Debug\net6.0-windows\Puzzle.csproj.AssemblyReference.cache
+C:\Users\alicj\source\repos\Puzzle\Puzzle\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\alicj\source\repos\Puzzle\Puzzle\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\alicj\source\repos\Puzzle\Puzzle\obj\Debug\net6.0-windows\Puzzle_MarkupCompile.cache
+C:\Users\alicj\source\repos\Puzzle\Puzzle\obj\Debug\net6.0-windows\Puzzle_MarkupCompile.lref
+C:\Users\alicj\source\repos\Puzzle\Puzzle\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\alicj\source\repos\Puzzle\Puzzle\obj\Debug\net6.0-windows\Puzzle.g.resources
+C:\Users\alicj\source\repos\Puzzle\Puzzle\obj\Debug\net6.0-windows\Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alicj\source\repos\Puzzle\Puzzle\obj\Debug\net6.0-windows\Puzzle.AssemblyInfoInputs.cache
+C:\Users\alicj\source\repos\Puzzle\Puzzle\obj\Debug\net6.0-windows\Puzzle.AssemblyInfo.cs
+C:\Users\alicj\source\repos\Puzzle\Puzzle\obj\Debug\net6.0-windows\Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\alicj\source\repos\Puzzle\Puzzle\obj\Debug\net6.0-windows\Puzzle.dll
+C:\Users\alicj\source\repos\Puzzle\Puzzle\obj\Debug\net6.0-windows\refint\Puzzle.dll
+C:\Users\alicj\source\repos\Puzzle\Puzzle\obj\Debug\net6.0-windows\Puzzle.pdb
+C:\Users\alicj\source\repos\Puzzle\Puzzle\obj\Debug\net6.0-windows\Puzzle.genruntimeconfig.cache
+C:\Users\alicj\source\repos\Puzzle\Puzzle\obj\Debug\net6.0-windows\ref\Puzzle.dll
+C:\Users\alicj\source\repos\WPF - Puzzle\Puzzle\bin\Debug\net6.0-windows\Puzzle.exe
+C:\Users\alicj\source\repos\WPF - Puzzle\Puzzle\bin\Debug\net6.0-windows\Puzzle.deps.json
+C:\Users\alicj\source\repos\WPF - Puzzle\Puzzle\bin\Debug\net6.0-windows\Puzzle.runtimeconfig.json
+C:\Users\alicj\source\repos\WPF - Puzzle\Puzzle\bin\Debug\net6.0-windows\Puzzle.dll
+C:\Users\alicj\source\repos\WPF - Puzzle\Puzzle\bin\Debug\net6.0-windows\Puzzle.pdb
+C:\Users\alicj\source\repos\WPF - Puzzle\Puzzle\obj\Debug\net6.0-windows\Puzzle.csproj.AssemblyReference.cache
+C:\Users\alicj\source\repos\WPF - Puzzle\Puzzle\obj\Debug\net6.0-windows\Dictionaries\ControlsDictionary.baml
+C:\Users\alicj\source\repos\WPF - Puzzle\Puzzle\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\alicj\source\repos\WPF - Puzzle\Puzzle\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\alicj\source\repos\WPF - Puzzle\Puzzle\obj\Debug\net6.0-windows\Puzzle_MarkupCompile.cache
+C:\Users\alicj\source\repos\WPF - Puzzle\Puzzle\obj\Debug\net6.0-windows\Puzzle_MarkupCompile.lref
+C:\Users\alicj\source\repos\WPF - Puzzle\Puzzle\obj\Debug\net6.0-windows\App.baml
+C:\Users\alicj\source\repos\WPF - Puzzle\Puzzle\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\alicj\source\repos\WPF - Puzzle\Puzzle\obj\Debug\net6.0-windows\Puzzle.g.resources
+C:\Users\alicj\source\repos\WPF - Puzzle\Puzzle\obj\Debug\net6.0-windows\Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alicj\source\repos\WPF - Puzzle\Puzzle\obj\Debug\net6.0-windows\Puzzle.AssemblyInfoInputs.cache
+C:\Users\alicj\source\repos\WPF - Puzzle\Puzzle\obj\Debug\net6.0-windows\Puzzle.AssemblyInfo.cs
+C:\Users\alicj\source\repos\WPF - Puzzle\Puzzle\obj\Debug\net6.0-windows\Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\alicj\source\repos\WPF - Puzzle\Puzzle\obj\Debug\net6.0-windows\Puzzle.dll
+C:\Users\alicj\source\repos\WPF - Puzzle\Puzzle\obj\Debug\net6.0-windows\refint\Puzzle.dll
+C:\Users\alicj\source\repos\WPF - Puzzle\Puzzle\obj\Debug\net6.0-windows\Puzzle.pdb
+C:\Users\alicj\source\repos\WPF - Puzzle\Puzzle\obj\Debug\net6.0-windows\Puzzle.genruntimeconfig.cache
+C:\Users\alicj\source\repos\WPF - Puzzle\Puzzle\obj\Debug\net6.0-windows\ref\Puzzle.dll
+C:\Users\alicj\source\repos\WPF - Puzzle\Puzzle\obj\Debug\net6.0-windows\Puzzle_Content.g.cs
